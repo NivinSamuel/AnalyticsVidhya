@@ -1,0 +1,7 @@
+streamlit
+pandas
+sentence-transformers
+scikit-learn
+streamlit-option-menu
+streamlit-tags
+torch
